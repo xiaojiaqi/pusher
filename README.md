@@ -12,11 +12,7 @@
 
 1. https://github.com/xiaojiaqi/pusher
 
-2. http://pusher.k8seasy.com/pusher/last/
-
-   软件目前有 windows 和linux 2个版本
-
-   ​
+ 目前分别为 pusher_server-0.2.0-210217 pusher_server-0.2.0-210217.exe  对应 和linux 和 windows  2个版本
 
 ### 2. 软件启动 
 
